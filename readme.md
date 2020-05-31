@@ -1,0 +1,2 @@
+# Kumpulan Beranda Portal Berita
+Simple web app kumpulan beranda portal berita. Latar belakang dibuat karena saya suka baca berita di berbagai portal dan harus buka banyak tab, padahal lihat kebanyakan judul nya aja, saya lihat keseluruhan berita jika belum paham dan menarik. Maka dari itu saya membuat aplikasi ini untuk mempermudah aktivitas saya. Terima kasih :)

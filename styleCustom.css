@@ -1,0 +1,33 @@
+.scrollmenu {
+	  background-color: #333;
+	  overflow: auto;
+	  white-space: nowrap;
+	}
+
+/* width */
+.scrollmenu::-webkit-scrollbar {
+	max-height: 10px;
+}
+
+/* Track */
+.scrollmenu::-webkit-scrollbar-track {
+		max-height: 10px;
+  background: #b1b8e3;
+  border-color: #3f51b5;
+}
+
+/* Handle */
+.scrollmenu::-webkit-scrollbar-thumb {
+		max-height: 10px;
+  background: #6271c8;
+}
+
+/* Handle on hover */
+.scrollmenu::-webkit-scrollbar-thumb:hover {
+  background: #20295b;
+}
+
+.iframe_berita {
+	width: 100%;
+	height: calc(100vh - 130px);
+}
